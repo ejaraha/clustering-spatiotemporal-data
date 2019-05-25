@@ -1,4 +1,4 @@
-# Cluster_Analysis_R
+# clustering spatiotemporal data
 
 overview:
 - preprocessing: remove duplicates and outliers, impute data points, create calculated fields
