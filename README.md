@@ -7,7 +7,7 @@ overview:
 
 data:
 - GPS data collected as part of an ongoing study on community participation for individuals with serious mental illnesses
-- see pdf
+- see PDF: 2016 - Brusilovskiy, Klein, Salzer - Using GPS To Study Health-Related Mobility and Participation.pdf
 
 tools:
 - R (geosphere, dplyr, zoo,rgdal,dbscan,cluster,RColorBrewer,geometry,grDevices,sp)
